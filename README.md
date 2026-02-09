@@ -88,74 +88,88 @@ const ronit = {
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 <div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔹 Fusion IDE</h3>
-      <br />
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-      </p>
-      <p align="center">
-        A collaborative real-time code editor with compiler integration and live sharing capabilities.
-      </p>
-      <p align="center">
-        <strong>🔗 Real-time collaboration</strong><br />
-        <strong>⚡ Built-in compiler</strong><br />
-        <strong>📤 Live code sharing</strong>
-      </p>
-    </td>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🔹 Fusion IDE</h3>
+<br />
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+</p>
+<p align="center">
+A collaborative real-time code editor with compiler integration and live sharing capabilities.
+</p>
+<p align="center">
+<strong>🔗 Real-time collaboration</strong><br />
+<strong>⚡ Built-in compiler</strong><br />
+<strong>📤 Live code sharing</strong>
+</p>
+</td>
 
-    <td width="50%" valign="top">
-      <h3 align="center">🔹 AI Voice Cloning System</h3>
-      <br />
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
-      </p>
-      <p align="center">
-        Deep learning system for cloning user-uploaded voice into synthetic speech using advanced TTS models.
-      </p>
-      <p align="center">
-        <strong>🎙️ Voice synthesis</strong><br />
-        <strong>🤖 Deep learning model</strong><br />
-        <strong>🔊 Audio processing</strong>
-      </p>
-    </td>
-  </tr>
+<td width="50%" valign="top">
+<h3 align="center">🔹 AI Voice Cloning System</h3>
+<br />
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+</p>
+<p align="center">
+Deep learning-based system for cloning human voice into synthetic speech using advanced TTS models.
+</p>
+<p align="center">
+<strong>🎙️ Voice synthesis</strong><br />
+<strong>🤖 Deep learning model</strong><br />
+<strong>🔊 Audio processing</strong>
+</p>
+</td>
+</tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔹 Autonomous Vehicle GUI</h3>
-      <br />
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros" />
-        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt" />
-      </p>
-      <p align="center">
-        A real-time ROS-based dashboard for monitoring and visualizing autonomous vehicle data.
-      </p>
-      <p align="center">
-        <strong>🚗 Vehicle data visualization</strong><br />
-        <strong>📡 Real-time monitoring</strong><br />
-        <strong>🎛️ Interactive dashboard</strong>
-      </p>
-    </td>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🔹 Autonomous Vehicle GUI</h3>
+<br />
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt" />
+</p>
+<p align="center">
+A real-time ROS-based dashboard for monitoring and visualizing autonomous vehicle data.
+</p>
+<p align="center">
+<strong>🚗 Vehicle data visualization</strong><br />
+<strong>📡 Real-time monitoring</strong><br />
+<strong>🎛️ Interactive dashboard</strong>
+</p>
+</td>
 
-    <td width="50%" valign="top">
-    </td>
-  </tr>
+<td width="50%" valign="top">
+<h3 align="center">🔹 Workflow Automation Builder</h3>
+<br />
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square" />
+</p>
+<p align="center">
+A system for building automated workflows that connect different services, APIs, and scheduled tasks.
+</p>
+<p align="center">
+<strong>⚙️ Workflow automation</strong><br />
+<strong>🔗 API integrations</strong><br />
+<strong>⏱️ Scheduled task execution</strong>
+</p>
+</td>
+</tr>
 </table>
 
 </div>
+
 
 ---
 
