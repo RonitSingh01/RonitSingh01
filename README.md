@@ -1,16 +1,250 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RonitSingh01/RonitSingh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ronit Singh
 
-Here are some ideas to get you started:
+### 🚀 Web Developer | AI Enthusiast | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+Analytics+Student;Building+Innovative+Solutions;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-singh-004b69271/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhronit128@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RonitSingh01&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm an **entrepreneurial enthusiast**, a dedicated **web developer**, and an **AI & Analytics student** passionate about building innovative, data-driven, and user-centric digital solutions.
+
+```javascript
+const ronit = {
+    location: "India 🇮🇳",
+    education: "B.Tech Honours (AI & Analytics)",
+    cpi: 8,
+    currentFocus: ["AI/ML", "Full Stack Development", "Cloud Deployment"],
+    hobbies: ["Badminton 🏸", "Sketching 🎨", "E-Sports 🎮"],
+};
+```
+
+- 🌐 **Web Developer** crafting impactful digital experiences
+- 🤖 Exploring **AI, Machine Learning, and Analytics**
+- 🧠 Passionate about **smart systems** that learn and improve over time
+- 💡 Love solving **real-world problems** with tech and creativity
+- 🎓 **B.Tech Honours (AI & Analytics)** —  CPI: 8
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+### Authentication & Cloud
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Automation & Jobs
+![Cron](https://img.shields.io/badge/Cron_Jobs-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Node-Cron](https://img.shields.io/badge/Node--Cron-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔹 Fusion IDE</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+      </p>
+      <p align="center">
+        A collaborative real-time code editor with compiler integration and live sharing capabilities.
+      </p>
+      <p align="center">
+        <strong>🔗 Real-time collaboration</strong><br />
+        <strong>⚡ Built-in compiler</strong><br />
+        <strong>📤 Live code sharing</strong>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">🔹 AI Voice Cloning System</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+      </p>
+      <p align="center">
+        Deep learning system for cloning user-uploaded voice into synthetic speech using advanced TTS models.
+      </p>
+      <p align="center">
+        <strong>🎙️ Voice synthesis</strong><br />
+        <strong>🤖 Deep learning model</strong><br />
+        <strong>🔊 Audio processing</strong>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔹 Autonomous Vehicle GUI</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros" />
+        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt" />
+      </p>
+      <p align="center">
+        A real-time ROS-based dashboard for monitoring and visualizing autonomous vehicle data.
+      </p>
+      <p align="center">
+        <strong>🚗 Vehicle data visualization</strong><br />
+        <strong>📡 Real-time monitoring</strong><br />
+        <strong>🎛️ Interactive dashboard</strong>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RonitSingh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RonitSingh01&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitSingh01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RonitSingh01&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Learning] --> B[AI/ML]
+    A --> C[Full Stack Development]
+    A --> D[Open Source]
+    A --> E[Cloud Deployment]
+    B --> F[Building Projects]
+    C --> F
+    D --> F
+    E --> F
+    F --> G[Real-world Impact]
+```
+
+</div>
+
+- 🔭 Currently working on **3D Visualisation Platform for Coding Problems with cloud deployment**
+- 🌱 Learning **Advanced Machine Learning**, **Cloud Technologies**, and **Mobile Development**
+- 👯 Looking to collaborate on **Open Source AI Projects** and **Web Apps**
+- 💬 Ask me about **Web Development, AI/ML, Web Dev and Entrepreneurship**
+---
+
+## 🏸 Beyond Code
+
+<div align="center">
+
+| 🏆 Interest | 💡 Description |
+|-------------|----------------|
+| **🏸 Badminton** | Smashing serves and volleys |
+| **🎨 Sketching** | Creating art when not coding |
+| **🎮 E-Sports** | Competitive gaming enthusiast |
+| **📚 Learning** | Science & tech content consumer |
+
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+<div align="center">
+
+```mermaid
+timeline
+    title My Journey
+    2023 : Cleared NDA Written Exam
+    2023 : Started B.Tech in AI & Analytics
+    2024 : Built first Full Stack Project
+    2024 : Multiple ML Projects Completed
+    2024 : Career Guidance AI System
+    2025 : Built First App 
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronit-singh-004b69271/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:singhronit128@gmail.com)
+
+### ✨ *"Building the future, one line of code at a time"* ✨
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
