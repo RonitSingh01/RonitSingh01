@@ -33,7 +33,7 @@ const ronit = {
 - 🤖 Exploring **AI, Machine Learning, and Analytics**
 - 🧠 Passionate about **smart systems** that learn and improve over time
 - 💡 Love solving **real-world problems** with tech and creativity
-- 🎓 **B.Tech Honours (AI & Analytics)** —  CPI: 8
+- 🎓 **B.Tech Honours (AI & Analytics)** —  CPI: 7.69
 
 ---
 
