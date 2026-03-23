@@ -23,7 +23,7 @@ I'm an **entrepreneurial enthusiast**, a dedicated **web developer**, and an **A
 const ronit = {
     location: "India 🇮🇳",
     education: "B.Tech Honours (AI & Analytics)",
-    cpi: 8,
+    cpi: 7.69,
     currentFocus: ["AI/ML", "Full Stack Development", "Cloud Deployment"],
     hobbies: ["Badminton 🏸", "Sketching 🎨", "E-Sports 🎮"],
 };
